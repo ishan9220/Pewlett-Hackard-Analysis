@@ -14,8 +14,7 @@ This table gives a break up of the employees across the titles in HP.
 
 ![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Group%20By%20Emp%20Info.png)
 
-4) 
-Below the table gives a break up of the number of employees that are scheduled to be retired from th
+4) Below the table gives a break up of the number of employees that are scheduled to be retired from th
 
 ![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibilit%20by%20group.png)
 
