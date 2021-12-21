@@ -27,8 +27,12 @@ This table gives a break up of the employees across the titles in HP.
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-The majority of employees that are retiring are senior level engineers and staff, combining for 60.5% of the total retiree wave. 
+The majority of employees that are retiring are senior level engineers and staff, combining for 60.5% of the total retiree wave.
 
+
+**Unique Titles and Count Query Used
+
+![](![image](https://user-images.githubusercontent.com/92416151/146863445-1c9f93ec-59e8-489f-ba0b-efd15bd06cce.png)
 
 **Retirement Info Query Used 
 
