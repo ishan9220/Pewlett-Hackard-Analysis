@@ -18,6 +18,8 @@ The purpose of this analysis is to ascertain the number of employees that are so
 -- The number of managers retiring is neglileable at only 2 personnel. 
 -- Total number of employees that were due to retire 90398. 
 
+![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Group%20By%20Emp%20Info.png)
+
 
 # High Level Recommendations to address the following 2 questions: 
 
