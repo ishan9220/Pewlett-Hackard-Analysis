@@ -27,7 +27,7 @@ The purpose of this analysis is to ascertain the number of employees that are so
 
 There is 1549 employees by age eligibile for the mentorship program. The majority of these are senior level engineers and staff, combining for 70.8%. With the the large wave of retirments coming HP would need to expand the age of their mentorship program to higher than 1965. 
 
-**Queries used and link to table for list of potential mentors among the employee base - **
+**Queries used and link to table for list of potential mentors among the employee base**
 
 **Unique Titles and Count Query Used**
 
