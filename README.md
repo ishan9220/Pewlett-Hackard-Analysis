@@ -6,7 +6,7 @@ The purpose of this analysis is to ascertain the number of employees that are so
 # Results: 4 major points from the analysis as follows : 
 
 
-1) The majority of unique employees  are Software Engineers at 32.5% followed by Senior Staff at 31.3%. 
+1) The majority of uniquererting employees  are Software Engineers at 32.5% followed by Senior Staff at 31.3%. 
 2) Non Senior Staff or Engineers and Staff Members combined to be 26465 or 29.2%
 3) The number of managers retiring is neglileable at only 2 personnel. 
 
@@ -14,7 +14,7 @@ This table gives a break up of the employees across the titles in HP.
 
 ![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Group%20By%20Emp%20Info.png)
 
-4) Total number of employees retiring and eligibile for the mentorship program is 1549 with 70.8% of them being Senior Enginners and Senior Staff. The table below breaks up the 1549. 
+4) Total number of employees eligibile for the mentorship program is 1549 with 70.8% of them being Senior Enginners and Senior Staff. The table below breaks up the 1549. 
 
 ![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibilit%20by%20group.png)
 
