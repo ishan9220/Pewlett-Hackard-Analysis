@@ -40,6 +40,8 @@ Mentorship Eligibililty Query Used
 
 ![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibility.png)
 
+Link to sheet containing the names of all the employees can be eligibility for the mentorship program here. !(
+
 
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 
