@@ -1,26 +1,23 @@
-# Pewlett-Hackard-Analysis
-
-Deliverable 3 Instructions
-For this part of the Challenge, you’ll write a report to help the manager prepare for the upcoming "silver tsunami."
-
-The analysis should contain the following:
-
-# Overview of the analysis: Explain the purpose of this analysis.
+# Overview of the Pewlett-Hackard-Analysis : 
 
 The purpose of this analysis is to ascertain the number of employees that are soon to retire across the different employee roles within the company. 
 
 
-# Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+# Results: 4 major points from the analysis as follows : 
 
 
--- The majority of employees retiring are Software Engineers at 32.5% followed by Senior Staff at 31.3%. 
--- Non Senior Staff or Engineers and Staff Members combined to be 26465 or 29.2%
--- The number of managers retiring is neglileable at only 2 personnel. 
--- Total number of employees that were due to retire 90398. 
+1) The majority of unique employees  are Software Engineers at 32.5% followed by Senior Staff at 31.3%. 
+2) Non Senior Staff or Engineers and Staff Members combined to be 26465 or 29.2%
+3) The number of managers retiring is neglileable at only 2 personnel. 
 
-
+This table gives a break up of the employees across the titles in HP. 
 
 ![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Group%20By%20Emp%20Info.png)
+
+4) 
+Below the table gives a break up of the number of employees that are scheduled to be retired from th
+
+![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibilit%20by%20group.png)
 
 
 # High Level Recommendations to address the following 2 questions: 
