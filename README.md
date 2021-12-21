@@ -31,6 +31,8 @@ The purpose of this analysis is to ascertain the number of employees that are so
 
 The majority of employees that are retiring are senior level engineers and staff, combining for 60.5% of the total retiree wave. 
 
+![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Retirement%20Info%20Query.png)
+
 
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 
