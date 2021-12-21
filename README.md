@@ -1,12 +1,12 @@
-# Overview of the Pewlett-Hackard-Analysis : 
+# Overview of the Pewlett-Hackard-Analysis (HP) : 
 
-The purpose of this analysis is to ascertain the number of employees that are soon to retire across the different employee roles within the company. 
+The purpose of this analysis is to ascertain the number of employees that are soon to retire across the different employee roles within the company and provide a list of employees who can be suitable for the mentorship program to offset the affects of the large volume of folks getting ready to retire. 
 
 
 # Results: 4 major points from the analysis as follows : 
 
 
-1) The majority of uniquererting employees  are Software Engineers at 32.5% followed by Senior Staff at 31.3%. 
+1) The majority of unique retiring employees are Software Engineers at 32.5% followed by Senior Staff at 31.3%. 
 2) Non Senior Staff or Engineers and Staff Members combined to be 26465 or 29.2%
 3) The number of managers retiring is neglileable at only 2 personnel. 
 
@@ -23,12 +23,13 @@ This table gives a break up of the employees across the titles in HP.
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-90398 roles will be needed to be filled with the 'silver tsunami' upcoming. 
+90398 roles will be needed to be filled with upcoming retirements coming up. 
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-The majority of employees that are retiring are senior level engineers and staff, combining for 60.5% of the total retiree wave.
+There is 1549 employees by age eligibile for the mentorship program. The majority of these are senior level engineers and staff, combining for 70.8%. With the the large wave of retirments coming HP would need to expand the age of their mentorship program to higher than 1965. 
 
+Queries used and link to table for list of potential mentors among the employee base - 
 
 **Unique Titles and Count Query Used
 
