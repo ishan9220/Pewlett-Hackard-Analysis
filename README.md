@@ -14,7 +14,7 @@ This table gives a break up of the employees across the titles in HP.
 
 ![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Group%20By%20Emp%20Info.png)
 
-4) Below the table gives a break up of the number of employees that are scheduled to be retired from th
+4) Total number of employees retiring and eligibile for the mentorship program is 1549 with 70.8% of them being Senior Enginners and Senior Staff. The table below breaks up the 1549. 
 
 ![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibilit%20by%20group.png)
 
@@ -38,10 +38,8 @@ The majority of employees that are retiring are senior level engineers and staff
 
 ![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibility.png)
 
-Link to sheet containing the names of all the employees can be eligibility for the mentorship program [here](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibility.csv)
 
-There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
+The link to the sheet containing the names of all the employees can be eligibility for the mentorship program [here](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibility.csv)
 
-Summary:
 
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+
