@@ -3,14 +3,12 @@
 The purpose of this analysis is to ascertain the number of employees that are soon to retire across the different employee roles within the company and provide a list of employees who can be suitable for the mentorship program to offset the affects of the large volume of folks getting ready to retire. 
 
 
-# Results: 4 major points from the analysis as follows : 
+## Results: 4 major points from the analysis as follows : 
 
 
 1) The majority of unique retiring employees are Software Engineers at 32.5% followed by Senior Staff at 31.3%. 
 2) Non Senior Staff or Engineers and Staff Members combined to be 26465 or 29.2%
-3) The number of managers retiring is neglileable at only 2 personnel. 
-
-This table gives a break up of the employees across the titles in HP. 
+3) The number of managers retiring is neglileable at only 2 personnel. This table gives a break up of the employees across the titles in HP. 
 
 ![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Group%20By%20Emp%20Info.png)
 
@@ -19,7 +17,7 @@ This table gives a break up of the employees across the titles in HP.
 ![](https://github.com/ishan9220/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibilit%20by%20group.png)
 
 
-# High Level Recommendations to address the following 2 questions: 
+## High Level Recommendations to address the following 2 questions: 
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
@@ -33,7 +31,7 @@ Queries used and link to table for list of potential mentors among the employee 
 
 **Unique Titles and Count Query Used
 
-![](![image](https://user-images.githubusercontent.com/92416151/146863445-1c9f93ec-59e8-489f-ba0b-efd15bd06cce.png)
+![](https://user-images.githubusercontent.com/92416151/146863445-1c9f93ec-59e8-489f-ba0b-efd15bd06cce.png)
 
 **Retirement Info Query Used 
 
